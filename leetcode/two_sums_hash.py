@@ -14,4 +14,4 @@ class Solution:
 
 if __name__ == '__main__':
     s = Solution()
-    s.twoSum([3,3], 6)
+    s.twoSum([3, 3], 6)
