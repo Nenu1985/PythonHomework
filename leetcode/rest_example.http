@@ -1,0 +1,6 @@
+http://bvsdl-s-1513.scnsoft.com:4444/bitbucket-hook/ HTTP/1.1
+content-type: application/json
+
+{
+    "test": true
+}
